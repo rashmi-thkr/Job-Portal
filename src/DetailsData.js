@@ -103,6 +103,33 @@ const jobDetailsData = {
     skills: 'JavaScript, HTML, CSS, Node.js, Git',
     companyLogo: '/images/logo8.png', // Add company logo path
   },
+  9: {
+    title: 'DevOps Engineer',
+    company: 'Cloud Innovators',
+    location: 'Hyderabad, India',
+    salary: '₹ 50k - 1 Lakh',
+    jobType: 'Full-Time',
+    shift: 'Day Shift',
+    description: 'We are seeking a DevOps Engineer to streamline our development processes and manage the infrastructure. Your responsibilities will include automating deployment, monitoring, and ensuring high availability of applications. This is an exciting opportunity to work with cloud technologies and contribute to improving operational efficiency.',
+    requirements: 'Experience with CI/CD pipelines, Kubernetes, Docker, and AWS services. Strong scripting skills in Python or Bash. Familiarity with infrastructure as code tools like Terraform is a plus.',
+    qualifications: 'Bachelor\'s degree in Computer Science or related field.',
+    skills: 'CI/CD, Kubernetes, Docker, AWS, Python, Bash, Terraform',
+    companyLogo: '/images/logo9.png', // Add company logo path
+  },
+  10: {
+    title: 'Marketing Manager',
+    company: 'Brand Builders',
+    location: 'Chennai, India',
+    salary: '₹ 40k - 90k',
+    jobType: 'Full-Time',
+    shift: 'Flexible Hours',
+    description: 'Join our team as a Marketing Manager to lead brand-building campaigns and oversee digital marketing strategies. You will be responsible for managing marketing budgets, creating marketing plans, and driving user engagement through innovative campaigns. This role requires a mix of creativity and strategic thinking.',
+    requirements: 'Proven experience in marketing, knowledge of digital marketing tools, and strong analytical skills. Experience with SEO, Google Ads, and social media marketing is a plus.',
+    qualifications: 'MBA in Marketing or equivalent degree.',
+    skills: 'Marketing Strategy, SEO, Google Ads, Analytics, Creativity, Team Management',
+    companyLogo: '/images/logo10.png', // Add company logo path
+  },
+  
 };
 
 export default jobDetailsData;

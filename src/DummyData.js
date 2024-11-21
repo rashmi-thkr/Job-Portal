@@ -79,6 +79,27 @@ const jobList = [
     salary: '₹ 35k - 70k',
     jobType: 'Internship',
   },
+  {
+    id: 9,
+    companyLogo: '/images/logo9.png', // Local logo reference
+    companyName: 'Cloud Innovators',
+    postedTime: '2024-10-12',
+    jobTitle: 'DevOps Engineer',
+    location: 'Hyderabad, India',
+    salary: '₹ 50k - 1 Lakh',
+    jobType: 'Full-Time',
+  },
+  {
+    id: 10,
+    companyLogo: '/images/logo10.png', // Local logo reference
+    companyName: 'Brand Builders',
+    postedTime: '2024-09-25',
+    jobTitle: 'Marketing Manager',
+    location: 'Chennai, India',
+    salary: '₹ 40k - 90k',
+    jobType: 'Full-Time',
+  },
+  
 ];
 
 export default jobList;

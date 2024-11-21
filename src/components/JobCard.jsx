@@ -38,14 +38,15 @@ const JobCard = ({ job }) => {
         </span>
       </div>
 
-      <div className="flex justify-center mt-6">
-        <button
-          onClick={handleViewDetails} // Call navigation handler
-          className="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-500"
-        >
-          View Details
-        </button>
-      </div>
+      <div className="flex justify-start mt-6">
+  <button
+    onClick={handleViewDetails} // Call navigation handler
+    className="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-500"
+  >
+    View Details
+  </button>
+</div>
+
     </div>
   );
 };

@@ -1,9 +1,9 @@
-/* src/index.css */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* src/index.css */
+
 @layer base{
     body {
         background: linear-gradient(45deg, #E0F7FA, #D6E4E5, #BCCCDC);

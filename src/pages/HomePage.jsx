@@ -28,7 +28,7 @@ const HomePage = () => {
 
   const backgroundScale = 1 + scroll * 0.0001; 
 
-  const displayedJobs = showMore ? jobList : jobList.slice(0, 6); // Show first 6 jobs initially
+  const displayedJobs = showMore ? jobList : jobList.slice(0, 8); // Show first 6 jobs initially
 
   return (
     <div className="w-full">
