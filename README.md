@@ -38,6 +38,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/4f1ddb46-a9d9-4a70-9349-5c2cca8e518c)
+
+
 ## 📁 How to Run the Project Locally
 ### Prerequisites:
 - Node.js (v16 or higher)
