@@ -37,7 +37,7 @@
 - **PropTypes**: To validate props passed to components.
 
 ---
-
+![image](https://github.com/user-attachments/assets/d7d08942-9b80-48a1-b950-db441c807a1d)
 ![image](https://github.com/user-attachments/assets/4f1ddb46-a9d9-4a70-9349-5c2cca8e518c)
 
 
