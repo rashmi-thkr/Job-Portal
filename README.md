@@ -39,6 +39,9 @@
 ---
 ![image](https://github.com/user-attachments/assets/d7d08942-9b80-48a1-b950-db441c807a1d)
 ![image](https://github.com/user-attachments/assets/4f1ddb46-a9d9-4a70-9349-5c2cca8e518c)
+![image](https://github.com/user-attachments/assets/855e917f-6660-4f77-8598-8030c05af787)
+![image](https://github.com/user-attachments/assets/3cbb02ca-983a-4e45-adda-44a9beb8f389)
+
 
 
 ## 📁 How to Run the Project Locally
